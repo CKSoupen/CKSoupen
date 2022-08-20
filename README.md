@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @CKSoupen a Pilot/Web Developer/Carpenter/Musician
+- 👋 Hi, I’m Cameron a Pilot, Web Developer, Carpenter & Musician.
 - 👀 I’m interested in Flying Aeroplanes, Coding, Building Custom Furniture & Process Finding
 - 🌱 I’m always learning ...
-- 💞️ I’m looking to collaborate on Front/back end projects and any aviation related software.
-- 📫 How to reach me soupencameron@gmail.com
+- 💞️ I’m looking to collaborate on frontend, backend, API or Cloud Adoption Projects or Fly Commercially.
+- 📫 Reach Out by email @ soupencameron@gmail.com
 
 <!---
 CKSoupen/CKSoupen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
